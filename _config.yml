@@ -1,7 +1,7 @@
 name: We Oui
 favicon: null
-layout_spectrum: 0.5319002023898065
-typography_spectrum: 0.47452800325118005
+layout_spectrum: 1
+typography_spectrum: 1
 title: weoui.com
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.012479259399697185
+  brandStrength: 0.0625
   lightness: 0.9314093322027475
-  saturation: 0.4114257241599262
+  saturation: 0.6875
   rhythmicContrast: 0.18723994633182883
 purpose: []
